@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven!</h1>
 
-- 👨‍💻 I'm currently interning at Adobe Australia as a Global Web Developer for the APAC region!
 - 👀 I'm passionate about Software Development and am always looking to learn more!
 - 📫 How to reach me **sschye@gmail.com**
 
